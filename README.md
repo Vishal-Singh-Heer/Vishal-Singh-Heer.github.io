@@ -60,7 +60,8 @@ After configuring these settings, your resume will be accessible on the web at `
 
 ## Visual Guide
 
-https://github.com/Vishal-Singh-Heer/Vishal-Singh-Heer.github.io/assets/130388412/20c9976e-625d-4a0c-bf5d-1e95d549c0ed
+![Animation](https://github.com/Vishal-Singh-Heer/Vishal-Singh-Heer.github.io/assets/130388412/c8bec94e-dc44-41a4-9f7e-16b3b88bbd77)
+
 
 ## Expanding Your Toolkit: Additional Resources
 
