@@ -27,8 +27,6 @@ At the heart of GitHub is Git, a version control system that tracks changes to y
   3. Choose whether to keep your repository **Public** or **Private**. A **Public** repository is visible to everyone and is the best choice for hosting your resume, as it allows potential employers and contacts to view your work. A **Private** repository, while keeping your content hidden from the public, would not serve the purpose of showcasing your resume to a wider audience.
   4. Initialize with a README file, which provides an overview of your repository, similar to a business prospectus. This README file is the first thing visitors will see when they visit your repository, so it serves as the "front page" of your project.
 
-
-
 ### 2. Crafting Your Resume
 
 Following Etter's guidance, the key to effective technical writing is clear, readable content. Markdown streamlines content creation, allowing GitHub to enhance its visual appeal without complicated formatting.
@@ -61,6 +59,8 @@ After configuring these settings, your resume will be accessible on the web at `
 
 
 ## Visual Guide
+
+https://github.com/Vishal-Singh-Heer/Vishal-Singh-Heer.github.io/assets/130388412/20c9976e-625d-4a0c-bf5d-1e95d549c0ed
 
 ## Expanding Your Toolkit: Additional Resources
 
