@@ -1,5 +1,3 @@
-# Vishal Singh Heer
-
 **🏠: Location:** Winnipeg, Canada  
 **📧: Email:** [heervs@myumanitoba.ca](mailto:heervs@myumanitoba.ca)  
 **📞: Phone:** (431) 554-5339  
