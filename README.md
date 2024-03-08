@@ -18,7 +18,7 @@ To successfully host your resume on GitHub Pages, you'll need a few things set u
 
 ### 1. Setting Up Your Repository
 
-At the heart of GitHub is Git, a version control system that tracks changes to your projects over time, similar to maintaining a detailed investment history. This feature is invaluable for updating your resume as your experience grows.
+At the heart of GitHub is Git, a version control system that tracks changes to your projects over time, similar to maintaining a detailed investment history. This practice mirrors Andrew Etter's advice on the importance of version control for efficient, collaborative documentation, making Git an essential tool for managing your professional narrative.
 
 - **Task**: Begin by creating a new repository on GitHub to house your resume and any related materials.
 - **Detailed Steps**: 
@@ -32,13 +32,13 @@ At the heart of GitHub is Git, a version control system that tracks changes to y
 Following Etter's guidance, the key to effective technical writing is clear, readable content. Markdown streamlines content creation, allowing GitHub to enhance its visual appeal without complicated formatting.
 
 - **Task**: Within your new repository, proceed to "Add file" > "Create new file". Name this file `index.md`. This Markdown file will host your resume content.
-- **Detailed Instructions**:
+- **Detailed Steps**:
   1. Use Markdown to craft your resume within `index.md`. Employ headers, bullet points, and hyperlinks to organize your information and highlight key achievements.
   2. Once you have input your content, on the top right, Click green "Commit changes..." button, enter a commit message that summarizes your changes, and click "Commit changes" to save your resume.
 
 ### 3. Choosing a Theme with Jekyll
 
-A consistent and visually appealing presentation of content can significantly enhance readability and the overall user experience. Jekyll, integrated with GitHub Pages, provides a selection of themes that determine the aesthetic of your site.
+A visually consistent and appealing content layout greatly boosts readability and user interaction, aligning with Etter's principles that advocate for clear and accessible documentation. Through GitHub Pages and Jekyll, a range of themes are available to customize your site's appearance, embodying Etter's emphasis on user-friendly documentation practices.
 
 - **Task**: To select a theme for your resume page, you need to add a `_config.yml` file to your repository. This file is used to configure settings for your GitHub Pages site, including its theme.
 - **Detailed Instructions**:
@@ -48,9 +48,9 @@ A consistent and visually appealing presentation of content can significantly en
 
 ### 4. Going Live
 
-With your `index.md` and `_config.yml` set up, you're nearly ready to publish your resume online.
+With your `index.md` and `_config.yml` set up, your resume is almost set for online publishing, reflecting Etter's principle of continuous delivery for modern technical writing.
 
-- **Configuration Steps**:
+- **Detailed Steps**:
   1. Access your repository's settings by navigating to the "Settings" tab.
   2. In the left sidebar, find and select the "Pages" section.
   3. Under "Source", choose the main branch and "/" (root) as the directory. This action directs GitHub Pages to use the content from the specified location to build your site.
@@ -63,15 +63,16 @@ After configuring these settings, your resume will be accessible on the web at `
 ![Animation](https://github.com/Vishal-Singh-Heer/Vishal-Singh-Heer.github.io/assets/130388412/c8bec94e-dc44-41a4-9f7e-16b3b88bbd77)
 
 
-## Expanding Your Toolkit: Additional Resources
+## Additional Resources
 
-- **Mastering Markdown**: [Markdown Guide](https://guides.github.com/features/mastering-markdown/) offers comprehensive information on getting the most out of Markdown for content creation.
-  
-- **Understanding GitHub Pages**: The [GitHub Pages Documentation](https://docs.github.com/en/pages) provides in-depth tutorials and troubleshooting tips to enhance your GitHub Pages experience.
-  
-- **Exploring Jekyll**: Learn more about customizing your GitHub Pages site with Jekyll through the [Jekyll Documentation](https://jekyllrb.com/docs/). It covers everything from basic usage to advanced configurations.
+- [**Mastering Markdown**](https://guides.github.com/features/mastering-markdown/): A comprehensive guide on using Markdown for content creation.
 
-- **Git Basics**: Solidify your understanding of Git, the version control system powering GitHub, with [Pro Git](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics), a comprehensive resource for beginners and advanced users alike.
+- [**Understanding GitHub Pages**](https://docs.github.com/en/pages): In-depth tutorials for enhancing your GitHub Pages experience.
+
+- [**Exploring Jekyll**](https://jekyllrb.com/docs/): Insights on customizing your site with Jekyll, covering basics to advanced setups.
+
+- [**Git Basics**](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics): Deepen your understanding of Git, essential for GitHub users of all levels.
+
 
 ## Acknowledgements
 
