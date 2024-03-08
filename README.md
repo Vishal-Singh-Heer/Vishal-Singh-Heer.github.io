@@ -29,7 +29,7 @@ At the heart of GitHub is Git, a version control system that tracks changes to y
 
 ### 2. Crafting Your Resume
 
-Following Etter's guidance, the key to effective technical writing is clear, readable content. Markdown streamlines content creation, allowing GitHub to enhance its visual appeal without complicated formatting.
+Embracing the ethos of Andrew Etter's modern technical writing principles, the cornerstone of compelling documentation is its clarity and accessibility to the reader. Markdown, as a lightweight markup language, is instrumental in this regard, offering a straightforward method for content creation. This simplicity aligns perfectly with GitHub's capabilities, allowing for an enhanced visual presentation of your resume without the complexities and intricacies often associated with traditional formatting methods.
 
 - **Task**: Within your new repository, proceed to "Add file" > "Create new file". Name this file `index.md`. This Markdown file will host your resume content.
 - **Detailed Steps**:
@@ -48,7 +48,7 @@ A visually consistent and appealing content layout greatly boosts readability an
 
 ### 4. Going Live
 
-With your `index.md` and `_config.yml` set up, your resume is almost set for online publishing, reflecting Etter's principle of continuous delivery for modern technical writing.
+With your `index.md` and `_config.yml` prepared, your resume is primed for online showcasing, epitomizing Andrew Etter's continuous delivery principle in modern technical writing. This setup, leveraging GitHub's integration with Git, enables real-time updates and deployments of your resume, embodying the agility and responsiveness that Etter champions. Such an approach transforms your resume from a static document to a dynamic reflection of your evolving professional narrative, ensuring it remains an up-to-date and accessible representation of your skills and accomplishments in the ever-changing tech landscape.
 
 - **Detailed Steps**:
   1. Access your repository's settings by navigating to the "Settings" tab.
