@@ -48,7 +48,7 @@ A visually consistent and appealing content layout greatly boosts readability an
 
 ### 4. Going Live
 
-With your `index.md` and `_config.yml` prepared, your resume is primed for online showcasing, epitomizing Andrew Etter's continuous delivery principle in modern technical writing. This setup, leveraging GitHub's integration with Git, enables real-time updates and deployments of your resume, embodying the agility and responsiveness that Etter champions. Such an approach transforms your resume from a static document to a dynamic reflection of your evolving professional narrative, ensuring it remains an up-to-date and accessible representation of your skills and accomplishments in the ever-changing tech landscape.
+With your index.md and _config.yml in place, your resume is set for online display, illustrating the essence of Andrew Etter's continuous delivery principle in the realm of modern technical writing. This stage marks the transition from preparation to presentation, bringing your professional persona to the digital forefront.
 
 - **Detailed Steps**:
   1. Access your repository's settings by navigating to the "Settings" tab.
