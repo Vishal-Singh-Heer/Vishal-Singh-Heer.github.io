@@ -41,7 +41,7 @@ Following Etter's guidance, the key to effective technical writing is clear, rea
 A visually consistent and appealing content layout greatly boosts readability and user interaction, aligning with Etter's principles that advocate for clear and accessible documentation. Through GitHub Pages and Jekyll, a range of themes are available to customize your site's appearance, embodying Etter's emphasis on user-friendly documentation practices.
 
 - **Task**: To select a theme for your resume page, you need to add a `_config.yml` file to your repository. This file is used to configure settings for your GitHub Pages site, including its theme.
-- **Detailed Instructions**:
+- **Detailed Steps**:
   1. In your repository, create a new file named `_config.yml`.
   2. Inside `_config.yml`, specify your chosen theme with a line such as `theme: jekyll-theme-minimal`. GitHub offers a variety of themes, so choose one that best suits your resume's style.
   3. Beyond selecting a theme, you can customize your site further by adding additional configurations to `_config.yml`, such as `title:`, `description:`, and `show_downloads:`. This enhances your page's functionality and presentation, making your online resume more reflective of your professional persona.
