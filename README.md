@@ -48,7 +48,7 @@ A visually consistent and appealing content layout greatly boosts readability an
 
 ### 4. Going Live
 
-With your index.md and _config.yml in place, your resume is set for online display, illustrating the essence of Andrew Etter's continuous delivery principle in the realm of modern technical writing. This stage marks the transition from preparation to presentation, bringing your professional persona to the digital forefront.
+With your `index.md` and `_config.yml` in place, your resume is set for online display, illustrating the essence of Andrew Etter's continuous delivery principle in the realm of modern technical writing. This stage marks the transition from preparation to presentation, bringing your professional persona to the digital forefront.
 
 - **Detailed Steps**:
   1. Access your repository's settings by navigating to the "Settings" tab.
